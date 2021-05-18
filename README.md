@@ -1,2 +1,2 @@
 # ClubWebsite
-🚀 Hack Club NUST Website
+🚀 Hack Club NUST Website Built Using NextJS
